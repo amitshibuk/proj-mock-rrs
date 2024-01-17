@@ -1,0 +1,61 @@
+search and book-----------------
+print("available stations")
+space before available trains
+
+centralize Train info 
+space before train info 
+centralize Search Book
+- 
+available trains
+space before please fill in the following 
+
+space before and after discount
+
+space before seats and centralized
+
+space after tabulate
+
+
+
+
+update-------------------------- 23-02--22
+* replaced with -
+space after choice 
+
+TICKET MANAGEMENT centralized
+and ticket management hyphen
+
+Ticket info centralized
+
+UPDATE TICKET cnetralized and the elongate hyphen
+
+fuckin tabulate mother fucker - update ticket
+
+space before ticket info and after tabulate
+
+update seats
+
+After seat number has been updated, add a space
+
+after day add a space
+
+Y/N in same line for date update
+
+going to menu
+
+Update Menu centralised 
+
+update-cancel centralise 
+
+change menu in update menu to "Go back"
+
+a bit of formatting before Ticket Mangement
+
+
+ticket info-------------------------------------
+
+Ticket Information underline
+
+
+Menu-----------------------------
+Lines after choice
